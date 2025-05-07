@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("./fonts/Roboto/RobotoMono-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/Roboto Mono/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url("./fonts/Ubuntu/Ubuntu-Regular.ttf");
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+}
+
+html,
+body {
+    min-height: 100vh;
+    background-color: #070808;
+}
+
+#root {
+    min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: #101212;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #252929;
+    cursor: pointer;
+    outline: none;
+}

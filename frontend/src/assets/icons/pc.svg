@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com" width="500px" height="500px">
+  <defs>
+    <bx:guide x="218.42319629964163" y="290.81959192273104" angle="90"/>
+    <bx:export>
+      <bx:file format="svg" path="pc.svg"/>
+    </bx:export>
+  </defs>
+  <rect x="46.982" y="11.737" width="406.037" height="438.505" style="fill-opacity: 0; fill-rule: nonzero; paint-order: stroke; stroke-miterlimit: 1; stroke-linecap: round; stroke-linejoin: round; stroke-dashoffset: 4px; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207); stroke-width: 8px;" rx="15.098" ry="15.098"/>
+  <rect x="95.365" y="58.867" width="309.271" height="259.806" style="fill-opacity: 0; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207); stroke-width: 8px;" rx="7.06" ry="7.06"/>
+  <path style="stroke-linejoin: round; stroke-linecap: round; fill-opacity: 0; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207); stroke-width: 8px;" d="M 84.18 450.223 H 415.819 V 480.416 A 7.847 7.847 0 0 1 407.972 488.263 H 90.927 A 6.747 6.747 0 0 1 84.18 481.516 V 450.223 Z" bx:shape="rect 84.18 450.223 331.639 38.04 0 0 7.847 6.747 1@57e681a0"/>
+  <rect x="97.217" y="347.23" width="11.127" height="43.645" style="stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" rx="5.563" ry="5.563"/>
+  <rect x="135.79" y="347.322" width="11.127" height="43.645" style="stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" rx="5.563" ry="5.563"/>
+  <rect x="176.024" y="347.153" width="11.127" height="43.645" style="stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" rx="5.563" ry="5.563"/>
+  <rect x="535.194" y="1620.961" width="10.601" height="118.778" style="transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" transform="matrix(0.002145, -0.999998, 0.999998, 0.001947, -195.256253, -1327.74871)" rx="5.3" ry="5.3"/>
+  <rect x="535.194" y="1616.631" width="10.601" height="118.462" style="transform-origin: 540.493px 1675.87px; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" transform="matrix(0.002145, -0.999998, 0.999998, 0.001947, -193.512679, -1292.620994)" rx="5.3" ry="5.3"/>
+  <rect x="180.081" width="11.127" height="43.645" style="stroke-linejoin: round; stroke-linecap: round; stroke-width: 2px; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" y="127.398" rx="5.563" ry="5.563"/>
+  <rect x="311.537" y="126.76" width="11.127" height="43.645" style="stroke-linejoin: round; stroke-linecap: round; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207);" rx="5.563" ry="5.563"/>
+  <ellipse style="fill-opacity: 0; stroke: rgb(8, 76, 207); fill: rgb(8, 76, 207); stroke-width: 8px;" cx="250" cy="221.799" rx="32.426" ry="29.728"/>
+</svg>
